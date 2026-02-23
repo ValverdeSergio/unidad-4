@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     
     # Tu aplicación
     'libros',
+    'oauth2_provider',
 ]
 
 MIDDLEWARE = [
